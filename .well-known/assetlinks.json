@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.myreservation.app",
+    "sha256_cert_fingerprints": ["61:79:23:D5:54:9E:D9:D3:CC:8B:7E:EE:5B:2D:67:DB:B6:88:6F:D8:FD:3A:C4:00:5B:87:76:81:15:F9:B1:D6"]
+  }
+}]
