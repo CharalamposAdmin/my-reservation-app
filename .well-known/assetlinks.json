@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.myreservation.app",
-    "sha256_cert_fingerprints": ["61:79:23:D5:54:9E:D9:D3:CC:8B:7E:EE:5B:2D:67:DB:B6:88:6F:D8:FD:3A:C4:00:5B:87:76:81:15:F9:B1:D6"]
+    "sha256_cert_fingerprints": [
+      "61:79:23:D5:54:9E:D9:D3:CC:8B:7E:EE:5B:2D:67:DB:B6:88:6F:D8:FD:3A:C4:00:5B:87:76:81:15:F9:B1:D6",
+      "99:9C:75:9E:84:94:07:03:A3:C2:F2:19:15:B4:14:90:F5:9C:17:7A:10:97:17:3C:C0:8A:38:71:56:60:BA:89"
+    ]
   }
 }]
